@@ -39,3 +39,4 @@ Then just open `http://localhost:3000` in your browser.
 
 ## Screenshots
 
+![ui image](https://github.com/Eklavya-11/gold-prediction/blob/main/images/ui-img1.png?raw=true)
